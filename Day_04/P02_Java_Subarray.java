@@ -2,7 +2,7 @@ package Day_04;
 
 import java.util.Scanner;
 
-public class Java_Subarray {
+public class P02_Java_Subarray {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. */
         Scanner sc = new Scanner(System.in);
